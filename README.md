@@ -15,7 +15,9 @@ Clone This Repository
 Run App : Python app.py
 
 
-Contoh Input : 
+## Endpoint
+
+Input : 
 
 {
   "Gender": "Male",
