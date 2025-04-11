@@ -48,3 +48,10 @@ Output :
   ],
   "status": "success"
 }
+
+
+3 Steps to Run Mentrix
+
+1. Run this Repo for model prediction (ML Backend)
+2. Run https://github.com/cikinodapz/Mental_Health_App.git for server (API & Logic)
+3. Run https://github.com/cikinodapz/Mentrix_App.git for frontend (User Interface)
